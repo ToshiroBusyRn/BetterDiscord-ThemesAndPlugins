@@ -10,8 +10,10 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://images.alphacoders.com/632/632525.png');
-    --activetext-colour: white;
+    --background: url(https://images.alphacoders.com/125/1251542.jpg);
+    background-size: cover;
+
+    --activetext-colour: white;);
 
     --primary1-colour: red;
     --primary2-colour: rgba(255,0,0,0.5);
